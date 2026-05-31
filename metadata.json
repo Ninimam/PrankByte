@@ -1,0 +1,6 @@
+{
+  "name": "Playful Tech",
+  "description": "A premium platform for harmless pranks and programmer humor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
